@@ -1,147 +1,97 @@
+# Hi there, I'm Iswar Chandra Rana! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Software+Developer+%26+Problem+Solver;Data+Structures+%26+Algorithms+Enthusiast;Full-Stack+Web+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</div>
+
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
-# :technologist: Hello, I'm Iswar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<h3 align="left">Software Developer and Coding Enthusiast</h3>
+## 🚀 About Me
 
-<img alt="Coding" width="200" height="150" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva-yawalkar&label=Profile%20views&color=0e75b6&style=flat" alt="iswar-ch-rana" /> </p>
+🎓 **MCA Student** at Veer Surendra Sai University Of Technology, Burla  
+💻 **Passionate** about creating efficient solutions and clean code  
+🌱 **Currently Learning:** Data Structures & Algorithms, Advanced Web Development  
+🎯 **Goal:** To become a skilled full-stack developer  
+📧 **Contact:** iswarchandrarana17@gmail.com  
+📄 **Resume:** [Download Here](https://shorturl.at/dDJP6)
 
-- 🔭 I’m currently pursuing M.C.A degree from **Veer Surendra Sai University Of Technology,Burla,Sambalpur**
+<br clear="right"/>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+## 🛠️ Tech Stack
 
-- 📫 How to reach me **iswarchandrarana17@gmail.com**
-
-- 📄 Know about my experiences [Download My Resume](https://shorturl.at/dDJP6)
-
-<h3 align="left">Connect with me:</h3>
+### Languages
 <p align="left">
-<a href="https://www.linkedin.com/in/iswar-chandra-rana-48629b201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-yawalkar" height="30" width="40" /></a>
-<a href="https://leetcode.com/iswar_2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharva_yawalkar" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Frameworks & Libraries
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer">
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap" />
 </p>
 
+### Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+</p>
 
+## 📈 GitHub Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Iswar-Ch-Rana&" alt="Iswar-Ch-Rana" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iswar-Ch-Rana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iswar-Ch-Rana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
 
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iswar-Ch-Rana&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
+</div>
 
-## 📊 My Github Stats
+## 📊 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iswar-Ch-Rana&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" alt="Activity Graph" />
+</div>
 
-  <br/>
-    <a href="https://github.com/Iswar-Ch-Rana/github-readme-stats"><img alt="Iswar Ch Rana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Iswar-Ch-Rana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Iswar-Ch-Rana/github-readme-stats"><img alt="Iswar Ch Rana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iswar-Ch-Rana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iswar-Ch-Rana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
+## 🎯 Current Focus
+- 🔍 **Problem Solving:** Actively solving DSA problems on LeetCode
+- 🌐 **Full-Stack Development:** Building end-to-end web applications
+- 📚 **Learning:** Exploring advanced algorithms and system design
+- 💡 **Projects:** Working on innovative solutions using modern tech stack
 
-<br/>
-<br/>
+## 🌐 Connect With Me
 
-<a href="https://github.com/Iswar-Ch-Rana/github-readme-activity-graph"><img alt="Iswar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Iswar-Ch-Rana&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/iswar-chandra-rana-48629b201/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/iswar_2000/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:iswarchandrarana17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
+## 📝 Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Iswar-Ch-Rana&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+**Thank you for visiting my profile! 😊**  
+**Feel free to explore my repositories and connect with me!**
+
+</div>

@@ -24,7 +24,7 @@
 🎓 **Education:** MCA from VSSUT Burla (CGPA: 8.21)  
 🔍 **Exploring:** AI/ML integration opportunities  
 📧 **Contact:** iswarchandrarana17@gmail.com  
-📄 **Resume:** [Download Here](https://drive.google.com/file/d/1bqJf6OvhpvmJYPrHJ0-tNIA73tlldHYd/view?usp=sharing)
+📄 **Resume:** [Download Here](https://drive.google.com/file/d/1FctlJx_tfZJYuBkA2kzl26qQKWhCnBlk/view?usp=drive_link)
 
 <br clear="right"/>
 

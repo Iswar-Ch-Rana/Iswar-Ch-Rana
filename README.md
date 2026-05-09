@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Software Engineer** specializing in **Backend Development** with **1+ years** of hands-on experience in **Spring Boot**, **Node.js**, and **AWS Cloud**
+**Software Engineer** specializing in **Backend Development** with **2+ years** of hands-on experience in **Spring Boot**, **Node.js**, and **AWS Cloud**
 
 🎯 **Key Achievements:**
 - **83%** database optimization through advanced query tuning

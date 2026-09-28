@@ -1,217 +1,98 @@
-# Hi there, I'm Iswar Chandra Rana! 👋
+# Hi, I'm Iswar Chandra Rana 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=700&lines=Software+Engineer+%7C+Backend+Specialist;Spring+Boot+%7C+Node.js+%7C+AWS+Cloud;Microservices+Architecture+%26+Enterprise+Solutions;Exploring+AI%2FML+Opportunities;1%2B+Years+Building+Production+Systems;83%25+Database+Optimization+%7C+99.9%25+Uptime" alt="Typing SVG" />
-</div>
+**Software Engineer II at Zessta Software Services** · Java & Spring Boot backend · Hyderabad, India
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+I build scalable, secure backend systems, and I design them before I build them: HLD, LLD, API contracts and engineering standards.
 
-## 🚀 Professional Summary
-
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-**Software Engineer** specializing in **Backend Development** with **2+ years** of hands-on experience in **Spring Boot**, **Node.js**, and **AWS Cloud**
-
-🎯 **Key Achievements:**
-- **83%** database optimization through advanced query tuning
-- **60%** deployment time reduction with Docker containerization  
-- **40%** performance improvement in legacy system migration
-- **99.9%** uptime in production systems serving **1000+** users
-
-🏢 **Currently:** Software Developer at **Zeesta Software Services**  
-🎓 **Education:** MCA from VSSUT Burla (CGPA: 8.21)  
-🔍 **Exploring:** AI/ML integration opportunities  
-📧 **Contact:** iswarchandrarana17@gmail.com  
-📄 **Resume:** [Download Here](https://drive.google.com/file/d/1FctlJx_tfZJYuBkA2kzl26qQKWhCnBlk/view?usp=drive_link)
-
-<br clear="right"/>
-
-## 💼 Professional Experience
-
-**🏢 Zeesta Software Services** | *Software Developer* | Jun 2024 - Present
-- Architected **enterprise microservices** with Spring Boot, Node.js, AWS S3 & Stripe payment gateway
-- Containerized **8+ microservices** using Docker with **60% deployment time reduction**
-- Migrated **Node.js systems** to Spring Boot achieving **40% performance improvement**
-- Implemented **Drools Rules Engine** reducing code complexity by **40%**
-
-## 🛠️ Technology Stack
-
-### ⚡ Backend & Cloud Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java_17/21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+<p>
+  <a href="https://iswar-ch-rana.github.io/"><img src="https://img.shields.io/badge/Portfolio-iswar--ch--rana.github.io-7c3aed?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/iswar-ch-rana/"><img src="https://img.shields.io/badge/LinkedIn-iswar--ch--rana-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1YTaijfEcPMG2ob5wOAdAhQjYMdj_JS-0/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-22c55e?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:iswarchandrarana17@gmail.com"><img src="https://img.shields.io/badge/Email-iswarchandrarana17%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-### 🔐 Security & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
-</p>
+## 🏗️ What I'm working on
 
-### 🗄️ Databases & Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QueryDSL-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
+- With my team, designed the architecture and features of **Arealytics' real estate listing platform**, including its **multi-tenant, metered Data API** over 223K+ commercial lease records
+- AWS API Gateway auth and throttling, field- and state-level entitlements, a record-level billing ledger and idempotent API-key provisioning
+- Leading the rebuild on **Java 25 + Spring Boot 4** (jOOQ, Spring Data JPA, Flyway), with JUnit and Testcontainers tests gating CI
 
-### 🌐 Frontend Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+## 💼 Experience: Zessta Software Services
 
-### 🔧 DevOps & Development Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-</p>
+| Role | Period |
+|---|---|
+| Software Engineer II | July 2026 – Present |
+| Software Engineer | June 2024 – July 2026 |
+| Software Developer Intern | December 2023 – May 2024 |
 
-## 📊 GitHub Analytics & Performance
+- Migrated a legacy Node.js and stored-procedure platform serving **5K–10K users** to Spring Boot, **40% faster**
+- Cut query time from **30s to under 5s (83%)** and made data retrieval **95% faster** through indexing and denormalization
+- Centralised **30+ business rules** in Drools, so rule changes need no redeploy; automated database deployments with Flyway and GitHub Actions across dev, staging and production
+- Integrated Keycloak with Redis for semi-stateless auth, and built an atomic double-entry ledger with a full audit trail on AreaDocs
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iswar-Ch-Rana&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&custom_title=Iswar's%20GitHub%20Stats&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iswar-Ch-Rana&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css"/>
-</div>
+## 🚀 Featured projects
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Iswar_Ch_Rana&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact"/>
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| [**JewelCart**](https://github.com/Iswar-Ch-Rana/jewelCart) | Multi-vendor jewellery e-commerce backend: 7 domain modules, Razorpay payments, AWS provisioned with Terraform, CI/CD to ECR, Prometheus and Grafana | Java 21, Spring Boot, PostgreSQL, Terraform, AWS, Docker |
+| [**MySQL MCP Server**](https://github.com/Iswar-Ch-Rana/mysql-mcp-server) | Read-only MCP server giving AI assistants a safe DBA toolkit: 28 tools, EXPLAIN ANALYZE diagnostics, two layers of SQL-injection protection | TypeScript, Node.js, MCP, MySQL, Vitest |
+| [**Spring AI**](https://github.com/Iswar-Ch-Rana/Spring-AI) | Chat with memory, RAG on a MariaDB vector store and tool calling, on OpenAI or local Ollama models | Java, Spring Boot, Spring AI, RAG |
+| [**System Design**](https://github.com/Iswar-Ch-Rana/System-Design) | 22 design patterns in Java, concurrency, LLD fundamentals and HLD notes | Java, LLD, HLD |
+| [**DSA_Java**](https://github.com/Iswar-Ch-Rana/DSA_Java) | Data structures and algorithms solutions in Java across 18 topics | Java |
 
-## 🔥 Coding Streak & Activity
+## 🛠️ Tech stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Iswar-Ch-Rana&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
+**Backend** &nbsp;
+![Java](https://img.shields.io/badge/Java_17%2F21%2F25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate%20%2F%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![jOOQ](https://img.shields.io/badge/jOOQ-005571?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Drools](https://img.shields.io/badge/Drools-0B5394?style=flat-square)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Iswar-Ch-Rana&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9" alt="Activity Graph" />
-</div>
+**Data** &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 
-## 📈 Contribution Analytics
+**Cloud & DevOps** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Iswar-Ch-Rana&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
-</div>
+**Security, testing & observability** &nbsp;
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iswar-Ch-Rana&theme=github_dark" alt="Profile Summary" />
-</div>
+**AI engineering** &nbsp;
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-## 🏆 Professional Achievements
+## 🧠 Problem solving: 1,350+ problems
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iswar-Ch-Rana&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies" />
-</div>
+<a href="https://www.geeksforgeeks.org/profile/ranabitu227"><img src="https://img.shields.io/badge/GeeksforGeeks-600%2B-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+<a href="https://leetcode.com/u/iswar_2000"><img src="https://img.shields.io/badge/LeetCode-430%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://takeuforward.org/profile/iswar_2000"><img src="https://img.shields.io/badge/takeUforward-330%2B-F97316?style=flat-square" alt="takeUforward"/></a>
 
-## 💻 Coding Stats & Metrics
+## 📜 Certifications
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iswar-Ch-Rana&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iswar-Ch-Rana&theme=github_dark" alt="Most Commit Language" />
-</div>
+- Model Context Protocol: Advanced Topics · Anthropic
+- Introduction to Agent Skills · Anthropic
+- [CCNA: Introduction to Networks](https://www.credly.com/badges/8c5e3751-5144-4677-9d3c-752c5967fbd9/public_url) · Cisco
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iswar-Ch-Rana&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iswar-Ch-Rana&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
-</div>
+## 🎓 Education
 
-## 🚀 Key Projects & Impact
-
-### 🏢 **Enterprise Document Management System** | *Production*
-**Stack:** Spring Boot, PostgreSQL, AWS S3, Stripe API, Docker  
-**Impact:** Serving **1000+ users** with **99.9% uptime** and comprehensive payment processing
-
-### ⚙️ **Microservices Rules Engine** | *Enterprise*  
-**Stack:** Spring Boot, Drools, PostgreSQL, Maven  
-**Impact:** **50% processing time reduction** with dynamic rule management
-
-### 📈 **Legacy System Migration** | *Enterprise*
-**Achievement:** Node.js to Spring Boot migration with **40% performance improvement**
-
-### 🌐 **Full-Stack Node.js Applications** | *Production*
-**Stack:** Node.js, Express.js, PostgreSQL, AWS  
-**Impact:** Scalable backend APIs with cloud integration
-
-## 💪 Problem Solving Excellence
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-150%2B%20Problems-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackerRank-3⭐%20Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</div>
-
-## 📈 Performance Metrics
-
-<div align="center">
-
-| Metric | Achievement | Impact |
-|--------|-------------|---------|
-| **Database Optimization** | 83% improvement | 30s → 5s query time |
-| **Deployment Efficiency** | 60% reduction | Faster CI/CD pipeline |
-| **System Performance** | 40% improvement | Legacy migration success |
-| **Code Coverage** | 90%+ with JUnit | Enterprise quality |
-| **System Uptime** | 99.9% | Production reliability |
-
-</div>
-
-## 🎯 Current Focus & Learning
-
-- 🤖 **AI/ML Opportunities:** Exploring intelligent system integration & machine learning applications
-- ☁️ **Advanced Cloud:** AWS Lambda, ECS, Kubernetes orchestration
-- 🏗️ **Architecture Patterns:** Event-Driven Design, CQRS, Microservices
-- 🔄 **Backend Technologies:** Reactive Programming, Spring WebFlux, Advanced Node.js
-- 📊 **Observability:** Distributed tracing, monitoring, logging strategies
-- 🛡️ **Security:** OAuth 2.0, Advanced Spring Security, API Gateway patterns
-
-## 🌐 Professional Network
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/iswar-chandra-rana-48629b201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/iswar_2000/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="mailto:iswarchandrarana17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Professional%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-## 💬 Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
-</div>
+**MCA**, Veer Surendra Sai University of Technology (VSSUT), Burla · 2022 – 2024 · CGPA 8.25
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Iswar-Ch-Rana&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Backend%20%7C%20Cloud%20%7C%20AI%2FML%20Opportunities-brightgreen?style=for-the-badge" alt="Open to opportunities" />
-</div>
-
-<div align="center">
-  
-**🚀 Backend Engineer | Spring Boot • Node.js • AWS Cloud**  
-**🤖 Exploring AI/ML Integration Opportunities**  
-**💼 1+ Years Production Experience | 🏆 Proven Impact**  
-**💡 Available for challenging backend & cloud development roles**
-
-</div>
+💡 Open to backend roles in fintech and product companies.

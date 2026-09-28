@@ -1,5 +1,13 @@
 # Hi, I'm Iswar Chandra Rana 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Software+Engineer+II+%40+Zessta;Java+%7C+Spring+Boot+%7C+Microservices;Scalable%2C+Secure+Backend+Systems;System+Design%3A+HLD+%26+LLD;Cloud+%26+DevOps%3A+AWS%2C+Docker%2C+Terraform;83%25+Faster+Queries+%7C+5K-10K+Users+Migrated" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
 **Software Engineer II at Zessta Software Services** · Java & Spring Boot backend · Hyderabad, India
 
 I build scalable, secure backend systems, and I design them before I build them: HLD, LLD, API contracts and engineering standards.
@@ -13,9 +21,13 @@ I build scalable, secure backend systems, and I design them before I build them:
 
 ## 🏗️ What I'm working on
 
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 - With my team, designed the architecture and features of **Arealytics' real estate listing platform**, including its **multi-tenant, metered Data API** over 223K+ commercial lease records
 - AWS API Gateway auth and throttling, field- and state-level entitlements, a record-level billing ledger and idempotent API-key provisioning
 - Leading the rebuild on **Java 25 + Spring Boot 4** (jOOQ, Spring Data JPA, Flyway), with JUnit and Testcontainers tests gating CI
+
+<br clear="right"/>
 
 ## 💼 Experience: Zessta Software Services
 
@@ -83,6 +95,22 @@ I build scalable, secure backend systems, and I design them before I build them:
 <a href="https://leetcode.com/u/iswar_2000"><img src="https://img.shields.io/badge/LeetCode-430%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 <a href="https://takeuforward.org/profile/iswar_2000"><img src="https://img.shields.io/badge/takeUforward-330%2B-F97316?style=flat-square" alt="takeUforward"/></a>
 
+## 📊 GitHub analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iswar-Ch-Rana&theme=github_dark" alt="Profile summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iswar-Ch-Rana&theme=github_dark" alt="Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iswar-Ch-Rana&theme=github_dark" alt="Repos per language" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iswar-Ch-Rana&theme=github_dark" alt="Most commit language" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Iswar-Ch-Rana&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub streak" />
+</div>
+
 ## 📜 Certifications
 
 - Model Context Protocol: Advanced Topics · Anthropic
@@ -93,6 +121,16 @@ I build scalable, secure backend systems, and I design them before I build them:
 
 **MCA**, Veer Surendra Sai University of Technology (VSSUT), Burla · 2022 – 2024 · CGPA 8.25
 
+## 💬 Developer quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random dev quote" />
+</div>
+
 ---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Iswar-Ch-Rana&label=Profile%20views&color=58a6ff&style=for-the-badge" alt="Profile views" />
+
 💡 Open to backend roles in fintech and product companies.
+</div>
